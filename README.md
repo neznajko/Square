@@ -1,0 +1,1 @@
+![](pix/Magtp_8aKtp_02.png)
