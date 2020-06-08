@@ -3,7 +3,7 @@ TARG = Square
 OPTS = -g
 ${TARG}.class: ${TARG}.java
 	javac ${OPTS} $^
-.PHONY: clean
+.PHONY: clean run debug
 clean:
 	${RM} ${TARG}.class
 run:
